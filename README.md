@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on MERN Projects
 - 💬 Ask me about DSA
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?2306-priyansh=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2306-priyansh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <!--
 **2306-priyansh/2306-priyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
